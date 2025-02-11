@@ -1,7 +1,7 @@
 # Probability Calculator
 
 ## Overview
-This project is a probability calculator implemented in Python. It simulates drawing balls from a hat to estimate the probability of drawing a specific combination of balls. This project was part of the *Scientific Computing with Python* certification on FreeCodeCamp, where I learned about probability, random sampling, and deep copying objects in Python.
+This project is a probability calculator implemented in Python. It simulates drawing balls from a hat to estimate the probability of drawing a specific combination of balls. This project was a **mandatory** part of the *Scientific Computing with Python* certification on FreeCodeCamp, where I learned about probability, random sampling, and deep copying objects in Python.
 
 ## Features
 - **Hat Class**: Represents a hat filled with balls of different colors.
@@ -27,5 +27,5 @@ This project is a probability calculator implemented in Python. It simulates dra
 - Uses the built-in `random` and `copy` modules (no external dependencies required).
 
 ## Acknowledgments
-This project was completed as part of the *Scientific Computing with Python* certification on FreeCodeCamp, where I learned about probability and object-oriented programming concepts in Python.
+This project was a **mandatory** part of the *Scientific Computing with Python* certification on FreeCodeCamp, where I learned about probability and object-oriented programming concepts in Python.
 
